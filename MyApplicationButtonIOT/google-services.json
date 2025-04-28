@@ -1,1 +1,40 @@
-
+{
+  "project_info": {
+    "project_number": "79107636249",
+    "firebase_url": "https://realtimesensoriot-8623c-default-rtdb.firebaseio.com",
+    "project_id": "realtimesensoriot-8623c",
+    "storage_bucket": "realtimesensoriot-8623c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79107636249:android:95fbde6c9f7628c7417e88",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationarduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79107636249-idjp1joj3i1kaal8ab1ovst8phobls8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByekwu2zjhTVYftQYcLVxSn-OkYl6z2h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79107636249-idjp1joj3i1kaal8ab1ovst8phobls8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
